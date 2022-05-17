@@ -28,7 +28,7 @@
 
 Go [https://gdindex-code-builder.maple3142.net/](https://gdindex-code-builder.maple3142.net/), and follow its instructions.
 
-### Manual way
+### Manually
 
 1. Install [rclone](https://rclone.org/)
 2. Setup your Google Drive: https://rclone.org/drive/
